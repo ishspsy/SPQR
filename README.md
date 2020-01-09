@@ -27,8 +27,8 @@ Efficient ADMM algorithm is developed for implementation.
 
 ## Author
 
-* Seyoung Park
- Department of Statistics, Sungkyunkwan Universitys
+* Eun Ryung Lee and Seyoung Park
+ Department of Statistics, Sungkyunkwan University
 
 
 ## Contact
